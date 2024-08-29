@@ -11,48 +11,51 @@ A simple assignment to practice string concatenation.
 # It starts at the triple double quote, 
 # and ends at the triple double quote
 # Make sure you update it by modifying semester and your name
-# Follow the instructions found at https://github.com/CS5001-khoury/HW1-Welcome
 
 
-def one_star():
+def one_star() -> str:
     """sets a single * to the variable stars."""
     stars = '' #change me
     return stars 
 
 
-def two_star():
+def two_star() -> str:
     """sets two * to the variable stars."""
-    stars = '' #change me
+    stars = '' #change me, make sure to use the * operator
     return stars
 
 
-def three_star():
+def three_star() -> str:
     """sets three * to the variable stars."""
     stars = ''  # change me
     return stars
 
 
-def four_star():
+def four_star() -> str:
     """sets four * to the variable stars."""
     stars = ''  # change me
     return stars
 
-def five_star():
+def five_star() -> str:
     """sets five * to the variable stars."""
     stars = ''  # change me
     return stars
 
+def get_rating_block() -> str:
+    """Gets a block with the various ratings."""
+    block =  "1 star rating:" + one_star() + "\n"
+    block += "2 star rating:" + two_star() + "\n"
+    block += "3 star rating:" + three_star() + "\n"
+    block += "3 star rating:" + four_star() + "\n"
+    block += "3 star rating:  " + five_star() + "\n"
+    return block
+
 
 def main():
-    # fix me
-    print("1 star rating:" + one_star())
-    print("2 star rating:" + two_star())
-    print("3 star rating:" + three_star())
-    print("3 star rating:" + four_star())
-    print("3 star rating:  " + five_star())
+    print(get_rating_block())
     ## also you could do the following
     rating = five_star()
-    print(f"\n\nMy star rating is {rating}")  # look up format strings!
+    print(f"\nMy star rating is {rating}\n")  # look up format strings!
     ## print _two_ blank lines here
 
 
