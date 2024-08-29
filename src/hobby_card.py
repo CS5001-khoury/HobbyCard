@@ -5,7 +5,7 @@ Course:   CS 5001
 Semester: UPDATE
 Student:  YOUR NAME
 
-A simple assignment to practice string concatenation.
+An assignment to practice string concatenation.
 """
 # The block above is a docstring (short for document string).
 # It starts at the triple double quote,
