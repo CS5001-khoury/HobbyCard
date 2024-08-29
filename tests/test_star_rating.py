@@ -10,7 +10,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../s
 ## works on your computer it doesn't always mean it works on ours
 
 
-import  star_rating 
+import star_rating  # type: ignore
 
 class TestStarRating(unittest.TestCase):
   
