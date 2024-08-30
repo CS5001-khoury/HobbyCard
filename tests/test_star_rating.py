@@ -52,7 +52,8 @@ class TestStarRating(unittest.TestCase):
 2 star rating: **
 3 star rating: ***
 4 star rating: ****
-5 star rating: *****""" # this is a multi-line string.
+5 star rating: *****
+""" # this is a multi-line string.
         self.assertEqual(expected, actual, msg="Double check the wording and spaces!")
 
 if __name__ == '__main__':
