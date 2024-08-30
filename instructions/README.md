@@ -174,6 +174,12 @@ As a reminder with the grading system, it is often all or nothing. Meaning if th
 
 ## 📝 Grading Rubric
 
+When you submit your files to gradescope, make sure you submit (and only submit):
+* README.md (the one with your name in it) 
+* Report.md
+* hobby_card.md
+* star_rating.md
+
 
 1. Learning (AG)
    * each star rating function returns the correct number of stars
