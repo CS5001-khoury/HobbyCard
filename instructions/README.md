@@ -171,6 +171,14 @@ As a reminder with the grading system, it is often all or nothing. Meaning if th
 > [!NOTE]  
 > You are free to ask about these questions in MS Teams chat! They are not meant to be super secret. Don't share your answers, but instead discuss the questions and what they mean - and point towards resources that can help others. 
 
+## 🤖 Use of LLMs
+You should **not** use LLMs for writing your code. This is about learning the process, and without learning the process you may find it actually more difficult to generate code with LLMs. This is because the prompts for LLMs need to be exact, or they will make faulty assumptions about the code you are trying to generate (often generating incorrect test cases!). 
+
+If you would like to use them to help you learn the material, then I would suggest this for a starting prompt. 
+
+> I am a new programmer, and just learning Python for the first time. What are some suggestions and pointers that will help my learning process? Imagine if you were an expert telling a starting programmer what they should know to be successful. Please give me practical advice on study habits, common mistakes to avoid, resources to use, and mindset tips that will set me up for long-term success in programming.
+
+However, before using this prompt. (1) Know you should never copy and paste any of your assignment into the LLM, as that may just give an answer. Answers without understanding are ways to fail. (2) In the Report.md we have a question about LLM use. I would suggest you take a look at that first. That way you can approach them with an ethical understanding of the potential issues with them. (3) Claude has officially partnered with northeastern https://claude.northeastern.edu/. They are a resource meant to be used.  Additionally, you will have access to copilot as a student, but you *should not* enable it at this time. Not only will it automatically try to solve problems for you, it will end up confusing you more. 
 
 ## 📝 Grading Rubric
 

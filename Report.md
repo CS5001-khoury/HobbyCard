@@ -66,3 +66,43 @@ For all these questions, it is recommended you open up the python interpreter an
 ## Deeper Thinking
 
  For star_rating and hobby_card, we built strings and then printed out the results. Why would we want to build strings, and then print out the results, than just printing out the results directly? Don't need a correct answer, but we encourage you to ponder this question and come up with reasons on why this would be a good design pattern.  Write your answer below.
+
+---
+Answer here
+
+
+
+
+---
+
+## LLM Ethics and Educational Use (Deeper Thinking Part 2)
+
+Large Language Models such as ChatGPT, Claude, and Copilot have drastically changed how we program and code in industry. The general advice with them is they are good for experienced programmers, but they often confuse and generate bad code for new programmers! In truth, there are (at least) three stages for LLM use:
+
+1. Learning how to ethically use LLMs to help you learn new topics
+2. Learning how to ethically use LLMs to co-create (such as code generation)
+3. Learning how LLMs work and programming them yourselves (A.I. courses)
+
+We are **only** in stage one. It is risky to try to jump to stage two without an understanding of what you are doing. I will provide sample prompts to help learn stage 1, but before you use them - I would like you to explore the ethical issues around LLMs.
+
+### Report
+
+Find three links on the ethical use of LLMs, particularly focusing on their use in educational or programming contexts where possible. Your sources should be from credible sources such as academic papers, established technology publications, educational policy organizations, or reputable news outlets. I suggest you have at least one source that contradicts or offers a different perspective from the other sources. Look for sources that address different stakeholder perspectives - such as educators, industry professionals, ethicists, or students.
+
+Keep track of your search terms and research process as you work - this will help you reflect on how you found and evaluated sources, which is good practice for academic research.
+
+Then write a reflective report (maximum of three paragraphs) that synthesizes these sources and answers the following questions:
+
+1. What are the issues surrounding LLM use, both from a creative and an engineering standpoint?
+
+2. What are the potential benefits of using LLMs?
+
+3. What is your current position on LLM use in society, and how might this position evolve as you gain more experience with these tools?
+
+### Writing Expectations
+
+You should write these paragraphs as a cohesive report - NOT as bullet points. We are also working on improving your college-level writing skills for master's-level research, so this is practice for that. Your report should demonstrate synthesis of sources, not just summary. Avoid simply stating what each source says - instead, analyze how the sources relate to each other and to your own developing perspective. Show how different viewpoints complement or contradict each other, and use this analysis to inform your own reasoned position. I am not requiring proper citations (at this time), but you need to provide the links you are using for your sources.  We are not grading on "correctness". This is your opinion, but we want you to gain practice doing research and reporting on it.
+
+(write your report below this line)
+
+---
