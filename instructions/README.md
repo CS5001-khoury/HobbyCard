@@ -185,8 +185,8 @@ However, before using this prompt. (1) Know you should never copy and paste any 
 When you submit your files to gradescope, make sure you submit (and only submit):
 * README.md (the one with your name in it) 
 * Report.md
-* hobby_card.md
-* star_rating.md
+* hobby_card.py
+* star_rating.py
 
 
 1. Learning (AG)
